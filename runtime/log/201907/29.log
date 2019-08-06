@@ -1,0 +1,494 @@
+[ 2019-07-29T17:00:25+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.layuicms.cc/ [运行时间：0.642000s][吞吐率：1.56req/s] [内存消耗：1,191.20kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\index\controller\Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:28+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ log ] www.layuicms.cc/admin [运行时间：0.316000s][吞吐率：3.16req/s] [内存消耗：2,151.09kb] [文件加载：48]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'purpose' => 'prefetch',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:28+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/common/login
+[ log ] www.layuicms.cc/admin/common/login [运行时间：0.052000s][吞吐率：19.23req/s] [内存消耗：1,663.77kb] [文件加载：45]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'common',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'purpose' => 'prefetch',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4',
+)
+[ info ] [ PARAM ] array (
+  '/admin/common/login' => '',
+)
+[ info ] [ RUN ] /**
+	 * [login 登录页面]
+	 * @return [type] [description]
+	 */
+Method [ <user> public method login ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Common.php 26 - 29
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/admin\view\common\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:28+08:00 ] 127.0.0.1 127.0.0.1 GET /captcha.html
+[ log ] www.layuicms.cc/captcha.html [运行时间：0.092000s][吞吐率：10.87req/s] [内存消耗：1,295.02kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'purpose' => 'prefetch',
+  'referer' => 'http://www.layuicms.cc/admin/common/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4',
+)
+[ info ] [ PARAM ] array (
+  '/captcha_html' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\vendor\topthink\think-captcha\src\CaptchaController.php 18 - 22
+
+  - Parameters [1] {
+    Parameter #0 [ <optional> $id = '' ]
+  }
+}
+
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:29+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ log ] www.layuicms.cc/admin [运行时间：0.048000s][吞吐率：20.83req/s] [内存消耗：2,151.33kb] [文件加载：48]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:29+08:00 ] 127.0.0.1 127.0.0.1 GET /captcha.html
+[ log ] www.layuicms.cc/captcha.html [运行时间：0.039000s][吞吐率：25.64req/s] [内存消耗：1,294.80kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.layuicms.cc/admin/common/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4',
+)
+[ info ] [ PARAM ] array (
+  '/captcha_html' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\vendor\topthink\think-captcha\src\CaptchaController.php 18 - 22
+
+  - Parameters [1] {
+    Parameter #0 [ <optional> $id = '' ]
+  }
+}
+
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:47+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/common/loginpublish.html
+[ log ] www.layuicms.cc/admin/common/loginpublish.html [运行时间：0.320000s][吞吐率：3.13req/s] [内存消耗：2,428.96kb] [文件加载：52]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'common',
+    2 => 'loginpublish',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'origin' => 'http://www.layuicms.cc',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'referer' => 'http://www.layuicms.cc/admin/common/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '62',
+)
+[ info ] [ PARAM ] array (
+  '/admin/common/loginpublish_html' => '',
+  'userName' => '2722279500@qq.com',
+  'password' => 'admin888',
+  'verifyCode' => 'z8kp',
+)
+[ info ] [ RUN ] /**
+     * [loginPublish 登录表单]
+     * @return [type] [description]
+     */
+Method [ <user> public method loginPublish ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Common.php 34 - 38
+}
+
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.056000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.148000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `username` = '2722279500@qq.com'  AND `password` = '8c8e2c91b8b7f4044e5014511dbbdde0' LIMIT 1     [ RunTime:0.013000s ]
+[ sql ] [ SQL ] UPDATE `tp_admin`  SET `login_num`=17,`login_time`=1564390847,`login_ip`='127.0.0.1',`login_token`='M2RiMjA0ZGI3MDFlZjIyZmMzOGVjZjVhMjQ4YjczMjQ='  WHERE  `username` = '2722279500@qq.com'  AND `password` = '8c8e2c91b8b7f4044e5014511dbbdde0'         [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:50+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/index.html
+[ log ] www.layuicms.cc/admin/index/index.html [运行时间：1.272000s][吞吐率：0.79req/s] [内存消耗：2,542.57kb] [文件加载：60]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://www.layuicms.cc/admin/common/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/index_html' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Index.php 23 - 26
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/admin\view\index\index.html [ array (
+  0 => 'getAdminInfo',
+  1 => 'getSystemInfo',
+  2 => 'getShowTopList',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin_cate` [ RunTime:0.031000s ]
+[ sql ] [ SQL ] SELECT `name` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu` [ RunTime:0.051000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45) GROUP BY menu_cate_id                                                                [ RunTime:0.023000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu_cate` [ RunTime:0.030000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:51+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/indexmain.html
+[ log ] www.layuicms.cc/admin/index/indexmain.html [运行时间：1.137000s][吞吐率：0.88req/s] [内存消耗：2,492.97kb] [文件加载：59]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexmain',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://www.layuicms.cc/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/indexmain_html' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ RUN ] /**
+     * [indexMain 应用默认首页]
+     * @return [type] [description]
+     */
+Method [ <user> public method indexMain ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Index.php 31 - 34
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/admin\view\index\indexmain.html [ array (
+  0 => 'getAdminInfo',
+  1 => 'getSystemInfo',
+  2 => 'getShowTopList',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin_cate` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `name` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45) GROUP BY menu_cate_id                                                                [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu_cate` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+
+---------------------------------------------------------------
+[ 2019-07-29T17:00:52+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/permission/menu?nameCate=
+[ log ] www.layuicms.cc/admin/permission/menu?nameCate= [运行时间：2.140000s][吞吐率：0.47req/s] [内存消耗：2,654.09kb] [文件加载：59]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'permission',
+    2 => 'menu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.layuicms.cc',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'referer' => 'http://www.layuicms.cc/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; pgv_si=s223302656; PHPSESSID=tsldfuckrkuqt3oogf1ilo74l4; think_var=zh-cn',
+)
+[ info ] [ PARAM ] array (
+  '/admin/permission/menu' => '',
+  'nameCate' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ RUN ] /**
+     * [menu description]
+     * @return [type] [description]
+     */
+Method [ <user> public method menu ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Permission.php 39 - 43
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin_cate` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu` [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45) GROUP BY menu_cate_id                                                                [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu_cate` [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45) GROUP BY menu_cate_id                                                              [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 1 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'yygl' LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 1  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45)                                                                 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 54  AND `menu_cate_id` = 1     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 67  AND `menu_cate_id` = 1     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'yhzx' LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 2  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45)                                                                 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 48  AND `menu_cate_id` = 2     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'xtsz' LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 3  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45)                                                                 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 39  AND `menu_cate_id` = 3     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'ltgl' LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 7  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45)                                                                 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 49  AND `menu_cate_id` = 7     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'sywd' LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 4  AND `pid` = 0  AND `id` IN (99,82,83,81,84,80,85,79,86,78,87,77,88,67,72,76,75,74,73,68,71,70,69,54,64,66,65,49,57,60,59,58,51,56,55,53,50,52,48,90,89,61,63,62,39,92,97,96,95,91,94,93,41,44,43,42,40,47,46,45)                                                                 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 77  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 78  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 79  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 80  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 81  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 82  AND `menu_cate_id` = 4     [ RunTime:0.000000s ]
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+
+---------------------------------------------------------------

@@ -1,0 +1,1573 @@
+[ 2019-07-24T16:33:52+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.layuicms.cc/ [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：957.32kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\index\controller\Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-24T16:33:59+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.layuicms.cc/ [运行时间：0.039000s][吞吐率：25.64req/s] [内存消耗：957.34kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\index\controller\Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-24T16:34:11+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] www.layuicms.cc/ [运行时间：0.039000s][吞吐率：25.64req/s] [内存消耗：957.35kb] [文件加载：33]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\index\controller\Index.php 6 - 9
+}
+
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-24T16:34:54+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ log ] www.layuicms.cc/admin [运行时间：1.156000s][吞吐率：0.87req/s] [内存消耗：2,171.78kb] [文件加载：62]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/admin' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Index.php 23 - 26
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/admin\view\index\index.html [ array (
+  0 => 'getAdminInfo',
+  1 => 'getSystemInfo',
+  2 => 'getShowTopList',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 2 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin_cate` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu` [ RunTime:0.016000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40) GROUP BY menu_cate_id                            [ RunTime:0.003000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu_cate` [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.001000s ]
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/indexmain.html
+[ log ] www.layuicms.cc/admin/index/indexmain.html [运行时间：1.125000s][吞吐率：0.89req/s] [内存消耗：2,150.42kb] [文件加载：61]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'indexmain',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/admin/index/indexmain_html' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ RUN ] /**
+     * [indexMain 应用默认首页]
+     * @return [type] [description]
+     */
+Method [ <user> public method indexMain ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Index.php 31 - 34
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/admin\view\index\indexmain.html [ array (
+  0 => 'getAdminInfo',
+  1 => 'getSystemInfo',
+  2 => 'getShowTopList',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 2 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin_cate` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu` [ RunTime:0.014000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40) GROUP BY menu_cate_id                            [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu_cate` [ RunTime:0.012000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.000000s ]
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:34:57+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/permission/menu?nameCate=
+[ log ] www.layuicms.cc/admin/permission/menu?nameCate= [运行时间：2.096000s][吞吐率：0.48req/s] [内存消耗：2,136.82kb] [文件加载：59]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'permission',
+    2 => 'menu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/admin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/admin/permission/menu' => '',
+  'nameCate' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ RUN ] /**
+     * [menu description]
+     * @return [type] [description]
+     */
+Method [ <user> public method menu ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\controller\Permission.php 39 - 43
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 2 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_admin_cate` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu` [ RunTime:0.014000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40) GROUP BY menu_cate_id                            [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_menu_cate` [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_admin` WHERE  `id` = 2 LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_cate_id` FROM `tp_menu` WHERE  `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40) GROUP BY menu_cate_id                          [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `name`,`alias`,`icon` FROM `tp_menu_cate` WHERE  `id` IN (1,2,3,4,7) ORDER BY sort DESC,id DESC       [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `menu_collect` FROM `tp_admin_cate` WHERE  `id` = 5 LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'yygl' LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 1  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40)                             [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 54  AND `menu_cate_id` = 1     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 67  AND `menu_cate_id` = 1     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'yhzx' LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 2  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40)                             [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 48  AND `menu_cate_id` = 2     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'xtsz' LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 3  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40)                             [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 39  AND `menu_cate_id` = 3     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'ltgl' LIMIT 1    [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 7  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40)                             [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 49  AND `menu_cate_id` = 7     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id` FROM `tp_menu_cate` WHERE  `alias` = 'sywd' LIMIT 1    [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `menu_cate_id` = 4  AND `pid` = 0  AND `id` IN (99,82,81,80,79,78,77,67,72,68,54,64,49,57,51,50,48,89,61,39,92,91,41,40)                             [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 77  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 78  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 79  AND `menu_cate_id` = 4     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 80  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 81  AND `menu_cate_id` = 4     [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 82  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`module`,`controller`,`function`,`icon`,`is_open` FROM `tp_menu` WHERE  `is_display` = 1  AND `pid` = 99  AND `menu_cate_id` = 4     [ RunTime:0.001000s ]
+[ error ] [8192]mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO)[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+[ error ] [2]mysql_get_server_info(): A link to the server could not be established[D:\phpStudy\PHPTutorial\WWW\layuicms\application\admin\model\Base.php:55]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:35:01+08:00 ] 127.0.0.1 127.0.0.1 GET /forum
+[ log ] www.layuicms.cc/forum [运行时间：0.034000s][吞吐率：29.41req/s] [内存消耗：1,701.70kb] [文件加载：48]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'purpose' => 'prefetch',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/forum' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-24T16:35:01+08:00 ] 127.0.0.1 127.0.0.1 GET /forum/common/login
+[ log ] www.layuicms.cc/forum/common/login [运行时间：0.053000s][吞吐率：18.87req/s] [内存消耗：2,016.21kb] [文件加载：55]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'purpose' => 'prefetch',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/login' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [login 登录页面]
+     * @return [type] [description]
+     */
+Method [ <user> public method login ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 39 - 43
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/forum\view\common\login.html [ array (
+  0 => 'getConfig',
+  1 => 'getSeoTitle',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.014000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:35:01+08:00 ] 127.0.0.1 127.0.0.1 GET /forum
+[ log ] www.layuicms.cc/forum [运行时间：0.051000s][吞吐率：19.61req/s] [内存消耗：1,701.48kb] [文件加载：48]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/forum' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-24T16:35:03+08:00 ] 127.0.0.1 127.0.0.1 GET /forum/common/register.html
+[ log ] www.layuicms.cc/forum/common/register.html [运行时间：0.046000s][吞吐率：21.74req/s] [内存消耗：2,022.04kb] [文件加载：55]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'register',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/login',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/register_html' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [register 注册页面]
+     * @return [type] [description]
+     */
+Method [ <user> public method register ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 57 - 61
+}
+
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\layuicms/application/forum\view\common\register.html [ array (
+  0 => 'getConfig',
+  1 => 'getSeoTitle',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:35:03+08:00 ] 127.0.0.1 127.0.0.1 GET /captcha.html
+[ log ] www.layuicms.cc/captcha.html [运行时间：0.102000s][吞吐率：9.80req/s] [内存消耗：1,042.16kb] [文件加载：35]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+)
+[ info ] [ PARAM ] array (
+  '/captcha_html' => '',
+  'id' => NULL,
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\vendor\topthink\think-captcha\src\CaptchaController.php 18 - 22
+
+  - Parameters [1] {
+    Parameter #0 [ <optional> $id = '' ]
+  }
+}
+
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-07-24T16:36:07+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.072000s][吞吐率：13.89req/s] [内存消耗：1,826.08kb] [文件加载：49]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.003000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:36:16+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.053000s][吞吐率：18.87req/s] [内存消耗：1,926.85kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:38:54+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.125000s][吞吐率：8.00req/s] [内存消耗：2,012.69kb] [文件加载：58]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.003000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+[ error ] [2]stream_socket_enable_crypto(): this stream does not support SSL/crypto[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Mail.php:561]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:39:12+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.177000s][吞吐率：5.65req/s] [内存消耗：2,012.70kb] [文件加载：58]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+[ error ] [2]stream_socket_enable_crypto(): this stream does not support SSL/crypto[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Mail.php:561]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:39:18+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.075000s][吞吐率：13.33req/s] [内存消耗：2,012.70kb] [文件加载：58]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+[ error ] [2]stream_socket_enable_crypto(): this stream does not support SSL/crypto[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Mail.php:561]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:39:27+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.085000s][吞吐率：11.76req/s] [内存消耗：2,012.69kb] [文件加载：58]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+[ error ] [2]stream_socket_enable_crypto(): this stream does not support SSL/crypto[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Mail.php:561]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:40:23+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：1.211000s][吞吐率：0.83req/s] [内存消耗：1,929.72kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:40:35+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：2.662000s][吞吐率：0.38req/s] [内存消耗：1,929.70kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:50:07+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.783000s][吞吐率：1.28req/s] [内存消耗：1,929.73kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:52:32+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.144000s][吞吐率：6.94req/s] [内存消耗：1,929.59kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:53:20+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.110000s][吞吐率：9.09req/s] [内存消耗：1,925.13kb] [文件加载：50]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:54:25+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.148000s][吞吐率：6.76req/s] [内存消耗：1,929.66kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:54:32+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.122000s][吞吐率：8.20req/s] [内存消耗：1,925.15kb] [文件加载：50]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:54:51+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.137000s][吞吐率：7.30req/s] [内存消耗：1,929.66kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:55:16+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.051000s][吞吐率：19.61req/s] [内存消耗：1,995.96kb] [文件加载：56]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+[ error ] [0]类的属性不存在:app\forum\model\Common->site_config[D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\library\think\Model.php:427]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:55:25+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.097000s][吞吐率：10.31req/s] [内存消耗：2,012.86kb] [文件加载：58]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+[ error ] [2]stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Mail.php:559]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:55:34+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.130000s][吞吐率：7.69req/s] [内存消耗：1,929.70kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:55:39+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.111000s][吞吐率：9.01req/s] [内存消耗：2,012.86kb] [文件加载：58]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.003000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+[ error ] [2]stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Mail.php:559]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:55:54+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.131000s][吞吐率：7.63req/s] [内存消耗：1,929.70kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:56:12+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.144000s][吞吐率：6.94req/s] [内存消耗：1,929.70kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.005000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:57:16+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：0.080000s][吞吐率：12.50req/s] [内存消耗：1,928.81kb] [文件加载：57]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.001000s ]
+[ error ] [2]mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Common.php:58]
+
+---------------------------------------------------------------
+[ 2019-07-24T16:58:25+08:00 ] 127.0.0.1 127.0.0.1 POST /forum/common/getemailcode.html
+[ log ] www.layuicms.cc/forum/common/getemailcode.html [运行时间：1.076000s][吞吐率：0.93req/s] [内存消耗：1,928.78kb] [文件加载：57]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'forum',
+    1 => 'common',
+    2 => 'getemailcode',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=7679657984; UM_distinctid=16c0e93d6ea46e-0424c4b7df7763-43450521-1fa400-16c0e93d6ec7e0; PHPSESSID=tk6tge4la3bo3dcvgj2jvs43o2; pgv_si=s1435041792; CNZZDATA30088308=cnzz_eid%3D1057765405-1563610178-%26ntime%3D1563941981; think_var=zh-cn',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.layuicms.cc/forum/common/register.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.layuicms.cc',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.layuicms.cc',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'content-length' => '35',
+)
+[ info ] [ PARAM ] array (
+  '/forum/common/getemailcode_html' => '',
+  'L_code' => '',
+  'L_email' => '2722279500@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] /**
+     * [getEmailCode 获取邮箱验证码]
+     * @return [type] [description]
+     */
+Method [ <user> public method getEmailCode ] {
+  @@ D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\controller\Common.php 93 - 97
+}
+
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\layuicms\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=layuicms;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_config` [ RunTime:0.004000s ]
+[ sql ] [ SQL ] SELECT `name`,`value` FROM `tp_config` WHERE  `type` = 'forum'   [ RunTime:0.000000s ]
+[ error ] [2]mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()[D:\phpStudy\PHPTutorial\WWW\layuicms\application\forum\model\Common.php:57]
+
+---------------------------------------------------------------
